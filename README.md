@@ -1,0 +1,2 @@
+# pancakeswap
+git-speedmoon-depository
